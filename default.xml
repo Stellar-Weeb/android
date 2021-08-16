@@ -36,7 +36,7 @@
 
   <!-- AOSP Projects -->
 
-  <project path="build/make" name="android_build" groups="pdk" remote="stellar" >
+  <project path="build/make" name="android_build" groups="pdk" revision="test" remote="stellar" >
     <copyfile src="core/root.mk" dest="Makefile" />
     <linkfile src="CleanSpec.mk" dest="build/CleanSpec.mk" />
     <linkfile src="buildspec.mk.default" dest="build/buildspec.mk.default" />
@@ -46,12 +46,12 @@
     <linkfile src="tools" dest="build/tools" />
   </project>
   <project path="build/blueprint" name="LineageOS/android_build_blueprint" groups="pdk,tradefed" />
-  <project path="build/soong" name="android_build_soong" groups="pdk,tradefed" remote="stellar" >
+  <project path="build/soong" name="android_build_soong" groups="pdk,tradefed" revision="test" remote="stellar" >
     <linkfile src="root.bp" dest="Android.bp" />
     <linkfile src="bootstrap.bash" dest="bootstrap.bash" />
   </project>
-  <project path="art" name="android_art" groups="pdk" remote="stellar" />
-  <project path="bionic" name="android_bionic" groups="pdk" remote="stellar" />
+  <project path="art" name="android_art" groups="pdk" revision="test" remote="stellar" />
+  <project path="bionic" name="android_bionic" groups="pdk" revision="test" remote="stellar" />
   <project path="bootable/recovery" name="android_bootable_recovery" remote="stellar" groups="pdk" />
   <project path="compatibility/cdd" name="platform/compatibility/cdd" groups="pdk" remote="aosp" />
   <project path="cts" name="platform/cts" groups="cts,pdk-cw-fs,pdk-fs" remote="aosp" />
@@ -440,8 +440,8 @@
   <!-- <project path="external/zlib" name="android_external_zlib" groups="pdk" remote="stellar" /> -->
   <project path="external/zopfli" name="platform/external/zopfli" groups="pdk" remote="aosp" />
   <project path="external/zxing" name="platform/external/zxing" groups="pdk" remote="aosp" />
-  <project path="frameworks/av" name="android_frameworks_av" groups="pdk" remote="stellar" />
-  <project path="frameworks/base" name="android_frameworks_base" groups="pdk-cw-fs,pdk-fs" remote="stellar" />
+  <project path="frameworks/av" name="android_frameworks_av" groups="pdk" revision="test" remote="stellar" />
+  <project path="frameworks/base" name="android_frameworks_base" groups="pdk-cw-fs,pdk-fs" remote="stellar" revision="test" />
   <project path="frameworks/compile/libbcc" name="platform/frameworks/compile/libbcc" groups="pdk" remote="aosp" />
   <project path="frameworks/compile/mclinker" name="platform/frameworks/compile/mclinker" groups="pdk" remote="aosp" />
   <project path="frameworks/compile/slang" name="platform/frameworks/compile/slang" groups="pdk" remote="aosp" />
@@ -455,7 +455,7 @@
   <project path="frameworks/minikin" name="platform/frameworks/minikin" groups="pdk-cw-fs,pdk-fs" remote="aosp" />
   <project path="frameworks/ml" name="android_frameworks_ml" groups="pdk" remote="stellar" />
   <project path="frameworks/multidex" name="platform/frameworks/multidex" groups="pdk-cw-fs,pdk-fs" remote="aosp" />
-  <project path="frameworks/native" name="android_frameworks_native" groups="pdk" remote="stellar" />
+  <project path="frameworks/native" name="android_frameworks_native" groups="pdk" revision="test" remote="stellar" />
   <project path="frameworks/opt/bitmap" name="platform/frameworks/opt/bitmap" groups="pdk-fs" remote="aosp" />
   <project path="frameworks/opt/calendar" name="platform/frameworks/opt/calendar" groups="pdk-cw-fs,pdk-fs" remote="aosp" />
   <project path="frameworks/opt/car/services" name="platform/frameworks/opt/car/services" groups="pdk-fs" remote="aosp" />
@@ -702,7 +702,7 @@
   <project path="system/chre" name="platform/system/chre" groups="pdk" remote="aosp" />
   <project path="system/connectivity/wificond" name="platform/system/connectivity/wificond" groups="pdk" remote="aosp" />
   <project path="system/connectivity/wifilogd" name="platform/system/connectivity/wifilogd" groups="pdk" remote="aosp" />
-  <project path="system/core" name="android_system_core" groups="pdk" remote="stellar" />
+  <project path="system/core" name="android_system_core" groups="pdk" revision="test" remote="stellar" />
   <project path="system/extras" name="platform/system/extras" groups="pdk" remote="aosp" />
   <project path="system/gatekeeper" name="platform/system/gatekeeper" groups="pdk" remote="aosp" />
   <project path="system/gsid" name="platform/system/gsid" groups="pdk" remote="aosp" />
