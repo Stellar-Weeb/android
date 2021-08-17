@@ -25,6 +25,7 @@ Credits
 - [**NezukoOS**](https://github.com/NezukoOS)
 - [**crDroid**](https://github.com/crDroidAndroid)
 - [**Syberia Project**](https://github.com/syberia-project)
+- [**Project Sakura**](https://github.com/ProjectSakura)
 *********
 <a href="https://sourceforge.net/projects/stellar-os/">
 <img src="https://img.shields.io/sourceforge/dt/stellar-os?style=for-the-badge">
@@ -33,7 +34,7 @@ Credits
 <img src="https://img.shields.io/badge/Telegram-Chat-green?style=for-the-badge">
 </a>
 
-To initialize your local repository using the LineageOS trees, use a command like this:  
+To initialize your local repository using your trees, use a command like this:  
 ```
 repo init --depth=1 -u git://github.com/Stellar-OS/android.git -b stellar-S1
 ```
