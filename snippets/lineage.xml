@@ -2,7 +2,7 @@
 <manifest>
 
   <!-- LineageOS additions -->
-  <project path="android" name="LineageOS/android" />
+  <project path="android" name="android" remote="stellar-weeb" />
   <project path="device/lineage/atv" name="LineageOS/android_device_lineage_atv" />
   <project path="device/lineage/sepolicy" name="android_device_lineage_sepolicy" remote="stellar" />
   <project path="device/lineage/car" name="LineageOS/android_device_lineage_car" />
@@ -24,7 +24,7 @@
   <project path="hardware/lineage/livedisplay" name="LineageOS/android_hardware_lineage_livedisplay" />
   <project path="lineage-sdk" name="android_lineage-sdk" remote="stellar" />
   <project path="packages/apps/AudioFX" name="LineageOS/android_packages_apps_AudioFX" />
-  <project path="packages/apps/Backgrounds" name="android_packages_apps_Backgrounds" remote="stellar" />
+  <project path="packages/apps/Backgrounds" name="android_packages_apps_Backgrounds" remote="stellar-weeb" />
   <project path="packages/apps/Eleven" name="LineageOS/android_packages_apps_Eleven" />
   <!--<project path="packages/apps/Email" name="LineageOS/android_packages_apps_Email" />-->
   <project path="packages/apps/Etar" name="LineageOS/android_packages_apps_Etar" />
@@ -43,13 +43,13 @@
   <project path="packages/apps/Snap" name="LineageOS/android_packages_apps_Snap" />
   <project path="packages/apps/Trebuchet" name="LineageOS/android_packages_apps_Trebuchet" />
   <!--<project path="packages/apps/UnifiedEmail" name="LineageOS/android_packages_apps_UnifiedEmail" />-->
-  <project path="packages/apps/Updater" name="android_packages_apps_Updater" remote="stellar" />
+  <project path="packages/apps/Updater" name="android_packages_apps_Updater" remote="stellar-weeb" />
   <project path="packages/overlays/Lineage" name="LineageOS/android_packages_overlays_Lineage" />
   <project path="packages/resources/devicesettings" name="LineageOS/android_packages_resources_devicesettings" />
   <project path="prebuilts/extract-tools" name="LineageOS/android_prebuilts_extract-tools" clone-depth="1" />
   <project path="prebuilts/tools-lineage" name="LineageOS/android_prebuilts_tools-lineage" clone-depth="1" />
   <project path="tools/extract-utils" name="LineageOS/android_tools_extract-utils" />
-  <project path="vendor/stellar" name="android_vendor_stellar" remote="stellar"/>
+  <project path="vendor/stellar" name="android_vendor_stellar" remote="stellar-weeb"/>
 
   <!-- CodeAurora additions -->
   <project path="device/qcom/sepolicy" name="LineageOS/android_device_qcom_sepolicy" groups="qcom,pdk-qcom" />

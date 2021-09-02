@@ -1,16 +1,18 @@
 <div align="center">
-<h1>Stellar OS</h1>
-<img src="https://user-images.githubusercontent.com/60157798/125198260-75250e80-e261-11eb-95e7-8cf10619b24a.png?raw=true"> 
-<br/>
-<strong><i> Optimized LineageOS-based Android aftermarket firmware with extra features, developed by people all over the world. </i></strong>
+<h1>Stellar OS // Weeb Edition</h1>
+</br>
+<strong><i> Weebified version of Stellar OS - Optimized LineageOS-based Android aftermarket firmware with extra features, developed by people all over the world. </i></strong>
+</br>
+<i> Rule 34.1: If something exists, there's a weebified variant of it. If not, start working. </i>
 
 Getting started
 ---------------
-To get started with Android/Stellar OS, you'll need to get
+To get started with Android/Stellar OS (Weeb Edition), you'll need to get
 familiar with [Repo](https://source.android.com/source/using-repo.html) and [Version Control with Git](https://source.android.com/source/version-control.html).
   
 Credits
 -------
+- [**Stellar OS**](https://github.com/Stellar-OS)
 - [**LineageOS**](https://github.com/LineageOS)
 - [**LineageOSMod**](https://github.com/LineageOSMod)
 - [**ForkLineageOS**](https://github.com/ForkLineageOS)
@@ -27,16 +29,13 @@ Credits
 - [**Syberia Project**](https://github.com/syberia-project)
 - [**Project Sakura**](https://github.com/ProjectSakura)
 *********
-<a href="https://sourceforge.net/projects/stellar-os/">
-<img src="https://img.shields.io/sourceforge/dt/stellar-os?style=for-the-badge">
-</a>
-<a href="https://t.me/Stellar_OS">
+<a href="https://t.me/Stellar_Weeb">
 <img src="https://img.shields.io/badge/Telegram-Chat-green?style=for-the-badge">
 </a>
 
 To initialize your local repository using your trees, use a command like this:  
 ```
-repo init --depth=1 -u git://github.com/Stellar-OS/android.git -b stellar-S1
+repo init --depth=1 -u git://github.com/Stellar-Weeb/android.git -b stellar-S1
 ```
 Then to sync up:
 ```
