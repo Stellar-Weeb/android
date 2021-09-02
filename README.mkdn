@@ -1,5 +1,6 @@
 <div align="center">
 <h1>Stellar OS // Weeb Edition</h1>
+<img src="https://github.com/Stellar-Weeb/android/raw/stellar-S1/headers/introbanner.png">
 </br>
 <strong><i> Weebified version of Stellar OS - Optimized LineageOS-based Android aftermarket firmware with extra features, developed by people all over the world. </i></strong>
 </br>
