@@ -30,7 +30,7 @@ Credits
 - [**Syberia Project**](https://github.com/syberia-project)
 - [**Project Sakura**](https://github.com/ProjectSakura)
 *********
-<a href="https://t.me/Stellar_Weeb">
+<a href="https://t.me/StellarWeeb">
 <img src="https://img.shields.io/badge/Telegram-Chat-green?style=for-the-badge">
 </a>
 
