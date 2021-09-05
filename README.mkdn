@@ -29,6 +29,7 @@ Credits
 - [**crDroid**](https://github.com/crDroidAndroid)
 - [**Syberia Project**](https://github.com/syberia-project)
 - [**Project Sakura**](https://github.com/ProjectSakura)
+- [**Weeb Projekt**](https://github.com/WeebProjekt)
 *********
 <a href="https://t.me/StellarWeeb">
 <img src="https://img.shields.io/badge/Telegram-Chat-green?style=for-the-badge">
