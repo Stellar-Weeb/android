@@ -29,8 +29,12 @@ Credits
 - [**crDroid**](https://github.com/crDroidAndroid)
 - [**Syberia Project**](https://github.com/syberia-project)
 - [**Project Sakura**](https://github.com/ProjectSakura)
+- [**Weeb Projekt**](https://github.com/WeebProjekt)
 - [**Wave Project**](https://github.com/Wave-Project)
 *********
+<a href="https://twitter.com/Stellar_OS_Weeb">
+<img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge">
+</a>
 <a href="https://t.me/StellarWeeb">
 <img src="https://img.shields.io/badge/Telegram-Chat-green?style=for-the-badge">
 </a>
