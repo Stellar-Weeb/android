@@ -50,6 +50,7 @@
   <project path="prebuilts/tools-lineage" name="LineageOS/android_prebuilts_tools-lineage" clone-depth="1" />
   <project path="tools/extract-utils" name="LineageOS/android_tools_extract-utils" />
   <project path="vendor/stellar" name="android_vendor_stellar" remote="stellar-weeb" revision="stellar-S1-staging" />
+
   <!-- CodeAurora additions -->
   <project path="device/qcom/sepolicy" name="LineageOS/android_device_qcom_sepolicy" groups="qcom,pdk-qcom" />
   <project path="device/qcom/sepolicy-legacy" name="LineageOS/android_device_qcom_sepolicy" groups="qcom,pdk-qcom" revision="lineage-18.1-legacy" />
